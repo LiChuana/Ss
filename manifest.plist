@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://120.77.146.215:8088/Uploads/APP/Ios/1.0.2.ipa</string>
+					<string>http://120.77.146.215:8088/Uploads/APP/Ios/1.0.3.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.VisoLink.ConstructionQuality</string>
 				<key>bundle-version</key>
-				<string>1.0.2</string>
+				<string>1.0.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
