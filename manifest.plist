@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://120.77.146.215:8088/Uploads/APP/Ios/1.0.3.ipa</string>
+					<string>http://219.234.1.59:9088/Uploads/APP/Ios/1.0.3.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://120.77.146.215:8088/Uploads/APP/Ios/icon.png</string>
+					<string>http://219.234.1.59:9088/Uploads/APP/Ios/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://120.77.146.215:8088/Uploads/APP/Ios/icon.png</string>
+					<string>http://219.234.1.59:9088/Uploads/APP/Ios/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.VisoLink.ConstructionQuality</string>
 				<key>bundle-version</key>
-				<string>1.0.3</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>实地工程</string>
+				<string>鑫苑验房</string>
 			</dict>
 		</dict>
 	</array>
